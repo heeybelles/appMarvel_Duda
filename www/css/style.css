@@ -1,0 +1,112 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+h3{
+    color:white;
+}
+.barra1{
+    width: 430px;
+    height: 10px;
+    margin-top: 9px;
+    margin-left: 25px;
+}
+.simbolo{
+margin-top:  30px;
+width: 80px;
+height: 110px;
+margin-left:198px;
+
+}
+.slide1{
+    width: 450px;
+    height: 170px;
+    margin-left: 13px;
+}
+.slide2{
+    width: 443px;
+    height: 170px;
+    margin-left: 18px;
+   border-radius: 15px;
+     opacity: 0.5 ;
+    
+}
+.slide3{
+    width: 443px;
+    height: 170px;
+    margin-left: 17px;
+   border-radius: 15px;
+     opacity: 0.5 ;
+    
+}
+.filmeL{
+    width: 90px;
+    height: 99px;
+    margin-left: 50px;
+}
+.h40{
+    color:white;
+    margin-top: 8px;
+    margin-left: 64px;
+}
+.h401{
+    color:white;
+    margin-top: -58px;
+    margin-left: 174px;
+}
+.h402{
+    color:white;
+    margin-top: -59px;
+    margin-left: 358px;
+}
+.quiz{
+    width: 110px;
+    height: 100px;
+    margin-left: 325px;
+    margin-top: -218px;
+}
+.perso{
+     width: 110px;
+    height: 110px;
+    margin-top:-220px;
+    margin-left: 190px;
+}
+.btnCadastrar{
+    width: 130px;
+    height: 40px;
+    border-radius: 16px;
+    margin-bottom: 40px;
+    margin-left: 80px;
+    background-color: #ab2bfa;
+    color: white;
+    text-transform: uppercase;
+    cursor: pointer;
+    outline: none;
+    border: black;
+}
+.btnEntrar{
+    width: 130px;
+    height: 40px;
+    border-radius: 16px;
+    margin-bottom: 60px;
+      background-color: #ab2bfa;
+      margin-left: 40px;
+    color: white;
+    text-transform: uppercase;
+    cursor: pointer;
+    outline: none;
+    border: black;
+}
+.marvel{
+    width: 175px;
+    height:50px;
+    margin-left: 10px;
+}
+.barra2{
+     width: 430px;
+    height: 10px;
+    margin-top: -2px;
+    margin-left: 25px;
+}
+
