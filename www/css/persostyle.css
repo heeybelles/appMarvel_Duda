@@ -23,9 +23,10 @@ h3{
     margin-top: 20px;
 }
 .spiderMan{
-    width: 116px;
-    height: 120px;
-    margin-top: -2000px;
+    width: 98px;
+    height: 98px;
+   display: flex;
+    margin-top: -110px;
     margin-left: 256px;
 }
 #btnBusca{
@@ -33,7 +34,7 @@ h3{
     height: 18px;
    margin-left: 10px;
   position: absolute;
-  margin-top: 14px;
+  margin-top: 16px;
 }
 .btnPesquisar{
    
@@ -45,6 +46,7 @@ h3{
     background-color: transparent;
     margin-top: 10px;
    text-align: center;
+    height: 30px;
 }
 input{
     color: white;
@@ -109,9 +111,9 @@ input{
   font-size: 10px;
 }
 .PersoCapita{
-  width: 65px;;
+  width: 57px;
   height: 58px;
-  margin-left: 240px;
+  margin-left: 245px;
   display: flex;
   margin-top: -90px;
 }
@@ -170,3 +172,7 @@ input{
     margin-top: 1px;
   
 }
+.space{
+    margin-top: 10px;
+}
+
